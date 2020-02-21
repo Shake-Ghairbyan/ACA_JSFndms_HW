@@ -1,0 +1,13 @@
+ 1. Write a program that reads two strings for playing the game of Rock-Paper-Scissors. If the strings entered by the user are not 'Paper', 'Rock' or 'Scissors', the program keeps on prompting the user to enter new values. If valid strings are inserted, repeat the loop, until one of the sides wins. (You can use alert instead of console.log).
+
+2. Given an array of a size smaller than 100. It consists of numbers from 0 to 99 in any order. Create a new array where each element from that array is placed under the index of its value. Start from the smallest value and end with the biggest one. If there are missing values, put in its places undefined.
+
+3. Write a function isEmpty(obj){} which returns true if the object is empty and false otherwise. For example:
+
+4. Write a function sumAllAges(obj){} which calculates the sum of all ages. For example: const obj = {
+
+5. Write a function multiplyNumeric(obj){} which multiplies all numeric properties of obj by 2 (modifiing the obj in place). For example:
+
+6.Write a function findMinForArray(arr){} which returns the minimum value from which
+starting calculation af all elements from arr becomes >= 1. For example: const arr = [-2, 3, 4, 8, -12];
+findMinForArray(arr) should return 0;
